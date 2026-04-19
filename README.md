@@ -23,13 +23,5 @@ Product Drivers: Clothing dominates revenue; fashion items (skirts, jeans, sneak
 Age Groups: Balanced revenue contribution across demographics.
 Customer Satisfaction: Average review rating of 3.82, suggesting room for improvement.
 
-📂 Repository Structure
-Code
-├── data/                # Raw dataset and cleaned dataset
-├── notebooks/           # Python scripts & Jupyter notebooks for EDA and cleaning
-├── sql/                 # PostgreSQL queries used for analysis
-├── dashboard/           # Power BI dashboard files (.pbix)
-├── report/              # Final report and presentation
-└── README.md            # Project documentation
 Outcome
 This project showcases the ability to transform raw data into business intelligence, combining technical skills in Python, SQL, and Power BI with storytelling through dashboards and presentations. It highlights opportunities for businesses to improve subscription adoption, enhance customer satisfaction, and focus on high-revenue product categories
